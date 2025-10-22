@@ -7,6 +7,10 @@
 * 👤 Learn more about me at [meltedbutter77.github.io](https://meltedbutter77.github.io/).
 * 📧 Contact me through my website [contact page](https://meltedbutter77.github.io/pages/contact.html).
 
+## 🎮 Some of my Projects
+* [Invite](https://discord.com/oauth2/authorize?client_id=853490879753617458) my Discord bot, Robotnic, or read about at [meltedbutter77.github.io/Robotnic/](https://meltedbutter77.github.io/Robotnic/)
+* Play some [Tetris](https://melted-coding-club.github.io/4.1-Tetris/), [Pool](https://meltedbutter77.github.io/Pool/) or tinker with [Conways Game of Life](https://meltedbutter77.github.io/conway-game-of-life/)
+
 ## 🤖 AI Use
 * ✅ I use absolutly **zero generative AI Code** in my projects. All the code on my profile is written completely by my human self.
 * 🏫 Why? Because I am always **learning**, using AI to complete code for me will kill my educational progress.
