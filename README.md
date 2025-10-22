@@ -4,8 +4,8 @@
 * 🔬 I'm passionate about electronics, teaching, new softwares, selfhosting, open source coding and technology in general.
 * 🏢 I'm currently studying to work in the tech field.
 * 🗣 I'm always free for a tech talk. 
-* 👤 Learn more about me at [meltedbutter77.github.io](https://meltedbutter77.github.io/).
-* 📧 Contact me through my website [contact page](https://meltedbutter77.github.io/pages/contact.html).
+* 👤 Learn more about me at [meltedbutter.xyz](https://meltedbutter.xyz/).
+* 📧 Contact me through my website [contact page](https://meltedbutter.xyz/pages/contact.html).
 
 ## 🎮 Some of my Projects
 * [Invite](https://discord.com/oauth2/authorize?client_id=853490879753617458) my Discord bot, Robotnic, or read about at [meltedbutter77.github.io/Robotnic](https://meltedbutter77.github.io/Robotnic/).
