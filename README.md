@@ -8,7 +8,7 @@
 * 📧 Contact me through my website [contact page](https://meltedbutter.xyz/pages/contact.html).
 
 ## 🎮 Some of my Projects
-* [Invite](https://discord.com/oauth2/authorize?client_id=853490879753617458) my Discord bot, Robotnic, or read about at [meltedbutter77.github.io/Robotnic](https://meltedbutter77.github.io/Robotnic/).
+* [Invite](https://discord.com/oauth2/authorize?client_id=853490879753617458) my Discord bot, Robotnic, or read about it [here](https://meltedbutter.xyz/Robotnic/).
 * Play some [Tetris](https://meltedbutter77.github.io/Tetris/), [Pool](https://meltedbutter77.github.io/Pool/) or tinker with [Conways Game of Life](https://meltedbutter77.github.io/conway-game-of-life/).
 
 ## 🤖 AI Use
