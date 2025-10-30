@@ -9,10 +9,10 @@
 
 ## 🎮 Some of my Projects
 * [Invite](https://discord.com/oauth2/authorize?client_id=853490879753617458) my Discord bot, Robotnic, or read about at [meltedbutter77.github.io/Robotnic](https://meltedbutter77.github.io/Robotnic/).
-* Play some [Tetris](https://melted-coding-club.github.io/4.1-Tetris/), [Pool](https://meltedbutter77.github.io/Pool/) or tinker with [Conways Game of Life](https://meltedbutter77.github.io/conway-game-of-life/).
+* Play some [Tetris](https://meltedbutter77.github.io/Tetris/), [Pool](https://meltedbutter77.github.io/Pool/) or tinker with [Conways Game of Life](https://meltedbutter77.github.io/conway-game-of-life/).
 
 ## 🤖 AI Use
-* ✅ I use absolutly **zero generative AI Code** in my projects. All the code on my profile is written completely by my human self.
+* ✅ I use absolutly **zero generative AI Code** in my projects. All the code on my profile is written completely by my human self. Yes, I like to add emojis.
 * 🏫 Why? Because I am always **learning**, using AI to complete code for me will kill my educational progress.
 * ❓ What do I use? ChatGPT is rarely used for explinations of algorithims and complicated text-book formulars. After understanding the theory, I implement the solution without AI help. Some large blocks of English text are written with AI, I like to code, not write essays.
 * ✍️ I love to learn by trial and error. I have reworked many projects tens of times becuase of mistakes in the layout of my code. It is this experience that will make me unique for my age.
