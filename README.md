@@ -13,6 +13,4 @@
 ## 🤖 AI Use
 * ✅ I use absolutly **zero generative AI Code** in my projects. All the code on my profile is written completely by my human self. Yes, I like to add emojis.
 * 🏫 Why? Because I am always **learning**, using AI to complete code for me will kill my educational progress.
-* ❓ What do I use? ChatGPT is rarely used for explinations of algorithims and complicated text-book formulars. After understanding the theory, I implement the solution without AI help. Some large blocks of English text are written with AI, I like to code, not write essays.
-* ✍️ I love to learn by trial and error. I have reworked many projects tens of times becuase of mistakes in the layout of my code. It is this experience that will make me unique for my age.
-* I take immense pride in my work and never want my acomplishments to be diminished by AI use. For this reason I aim to have a 'use of ai' section in all repositries' readmes.
+* ✍️ I love to learn by trial and error. I have reworked many projects tens of times becuase of mistakes in the layout of my code. It is this experience that will improve my abilities.
