@@ -3,7 +3,7 @@
 * 📍 I live in [Adelaide, Australia](https://www.openstreetmap.org/relation/11381689).
 * 🔬 I'm actively involved with electronics, selfhosting softwares, teaching, open source programs, language learning, technology in general and experimenting with new hobbies like skatboarding or drawing.
 * 🏢 I'm currently studying a Bachelor of Computer Science and am aiming toward backend development, building logic-driven systems, APIs, and bots rather than front-end interfaces.
-* 👉 Learn more about me at [meltedbutter.xyz](https://meltedbutter77.github.io/).
+* 👉 Learn more about me at [meltedbutter.dev](https://meltedbutter77.github.io/).
 
 ## 🎮 Some of my Projects
 * [Invite](https://discord.com/oauth2/authorize?client_id=853490879753617458) my Discord bot, Robotnic, or read about it [here](https://meltedbutter77.github.io/Robotnic/).
