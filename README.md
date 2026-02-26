@@ -1,4 +1,4 @@
-# Hey! I'm MeltedButter 🧈
+# Hey! I'm Jack Schultz 🧈
 ## About Me
 * 📍 I live near [Adelaide, Australia](https://www.openstreetmap.org/relation/11381689).
 * 🔬 I'm actively involved with electronics, selfhosting softwares, teaching, open source programs, language learning, technology in general and experimenting with new hobbies like skatboarding or drawing.
