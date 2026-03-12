@@ -8,8 +8,3 @@
 ## 🎮 Some of my Projects
 * [Invite](https://discord.com/oauth2/authorize?client_id=853490879753617458) my Discord bot, Robotnic, or read about it [here](https://jack-schultz.github.io/Robotnic/).
 * Play some [Tetris](https://jack-schultz.github.io/Tetris/), [Pool](https://jack-schultz.github.io/Pool/) or tinker with [Conways Game of Life](https://jack-schultz.github.io/conway-game-of-life/).
-
-## 🤖 AI Use
-* ✅ I use absolutly **zero generative AI Code** in my projects. All the code in my final projects is written completely by my human self.
-* 🏫 Why? Because I am always **learning**, using AI to complete code for me will kill my educational progress.
-* ✍️ I love to learn by trial and error. I have reworked many projects tens of times becuase of mistakes in the layout of my code. It is this experience that will improve my abilities.
